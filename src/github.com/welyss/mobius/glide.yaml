@@ -1,0 +1,4 @@
+package: .
+import:
+- package: github.com/tidwall/gjson
+  version: v1.1.3
